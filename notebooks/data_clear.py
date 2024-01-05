@@ -31,7 +31,7 @@ class DataClear:
     
     result = total_accents.sum()
     
-    return print(f'Total de palavras que atendem ao padrão: {result}')
+    return print(f'Total de palavras que atendem ao padrão: {result} ')
     
   
   def cleaning_accents(self, column_name):
